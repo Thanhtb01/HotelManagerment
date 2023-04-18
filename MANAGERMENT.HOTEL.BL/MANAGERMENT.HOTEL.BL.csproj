@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MANAGERMENT.HOTEL.Common\MANAGERMENT.HOTEL.Common.csproj" />
+    <ProjectReference Include="..\MANAGERMENT.HOTEL.DL\MANAGERMENT.HOTEL.DL.csproj" />
+  </ItemGroup>
+
+</Project>
